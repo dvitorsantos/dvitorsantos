@@ -5,7 +5,7 @@
 * 💭 Seja você mesmo, mas não seja sempre o mesmo. 
 * 🚀 Sempre procurando a solução. 
 
-<div>
+<div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=dvitorsantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvitorsantos&layout=compact&langs_count=16&theme=gotham"/>
 </div>
@@ -26,4 +26,5 @@
 </p>
 
 ## Contatos
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvitorsantos/)
+<a href = "mailto:vitoralannl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/dvitorsantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
