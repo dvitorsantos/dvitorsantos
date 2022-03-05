@@ -3,9 +3,11 @@
 
 Hi, I'm Vitor, a curious programmer and technology lover. Graduated Computer Technician at the Federal Institute of Maranhão (IFMA) and graduating in Computer Science at the Federal University of Maranhão (UFMA). I'm always looking for learning and looking for new projects and challenges.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvitorsantos)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dvitorsantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvitorsantos&layout=compact&langs_count=16&theme=gotham"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvitorsantos)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 <p align="center">
